@@ -12,155 +12,288 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zalfa =====
-[1]Zalfa       |08:34:47 | 11-10-2026| login OK @myzalfaa | score=920 rank=6381
-[1]Zalfa       |08:34:48 | 11-10-2026| serverTime=2026-10-11T08:34:47.000Z local=2026-10-11T08:34:48.000Z
+[1]Zalfa       |12:47:21 | 12-10-2026| login OK @myzalfaa | score=960 rank=6370
+[1]Zalfa       |12:47:21 | 12-10-2026| serverTime=2026-10-12T12:47:21.000Z local=2026-10-12T12:47:21.525Z
 --> [1]Zalfa menjalankan: Claim Daily
-[1]Zalfa       |08:34:48 | 11-10-2026| daily: sudah klaim (already=true) score=920
---> [1]Zalfa menjalankan: Auto All Tasks (3 pending)
-[1]Zalfa       |08:34:51 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109200570887921492
-[1]Zalfa       |08:34:51 | 11-10-2026| delay 10s...
-[1]Zalfa       |08:35:03 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109200803140815434
-[1]Zalfa       |08:35:03 | 11-10-2026| delay 10s...
-[1]Zalfa       |08:35:18 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109200583617181636
-[1]Zalfa       |08:35:18 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zalfa       |08:35:19 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/myzalfaa/status/2109200538423520173
+[1]Zalfa       |12:47:23 | 12-10-2026| daily: OK +10 poin score=970
+--> [1]Zalfa menjalankan: Auto All Tasks (9 pending)
+[1]Zalfa       |12:47:25 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626610179740834
+[1]Zalfa       |12:47:25 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:47:39 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626512774158796
+[1]Zalfa       |12:47:39 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:47:51 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626605076412808
+[1]Zalfa       |12:47:51 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:48:03 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626726428690446
+[1]Zalfa       |12:48:03 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:48:17 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Zalfa       |12:48:17 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:48:29 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626629093643265
+[1]Zalfa       |12:48:29 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:48:41 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626755256842859
+[1]Zalfa       |12:48:41 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:48:53 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/myzalfaa/status/2109626843003163531
+[1]Zalfa       |12:48:53 | 12-10-2026| delay 10s...
+[1]Zalfa       |12:49:05 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Zalfa       |12:49:05 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zalfa       |12:49:07 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/myzalfaa/status/2109626882684639895
 --> [1]Zalfa menjalankan: Watch Anime
-[1]Zalfa       |08:35:20 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep5
-[1]Zalfa       |08:35:20 | 11-10-2026| watch [1/2] farming oshi-first-journey...
-[1]Zalfa       |08:35:22 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Zalfa       |08:35:30 | 11-10-2026| watch oshi-first-journey: 6% (5.24/87.00s)
-[1]Zalfa       |08:35:36 | 11-10-2026| watch oshi-first-journey: 13% (11.91/87.00s)
-[1]Zalfa       |08:35:44 | 11-10-2026| watch oshi-first-journey: 20% (17.91/87.00s)
-[1]Zalfa       |08:35:50 | 11-10-2026| watch oshi-first-journey: 27% (24.24/87.00s)
-[1]Zalfa       |08:35:58 | 11-10-2026| watch oshi-first-journey: 34% (29.95/87.00s)
-[1]Zalfa       |08:36:06 | 11-10-2026| watch oshi-first-journey: 42% (37.06/87.00s)
-[1]Zalfa       |08:36:12 | 11-10-2026| watch oshi-first-journey: 49% (43.06/87.00s)
-[1]Zalfa       |08:36:18 | 11-10-2026| watch oshi-first-journey: 55% (48.44/87.00s)
-[1]Zalfa       |08:36:25 | 11-10-2026| watch oshi-first-journey: 62% (53.97/87.00s)
-[1]Zalfa       |08:36:31 | 11-10-2026| watch oshi-first-journey: 69% (60.11/87.00s)
-[1]Zalfa       |08:36:37 | 11-10-2026| watch oshi-first-journey: 75% (65.53/87.00s)
-[1]Zalfa       |08:36:44 | 11-10-2026| watch oshi-first-journey: 81% (70.94/87.00s)
-[1]Zalfa       |08:36:52 | 11-10-2026| watch oshi-first-journey: 88% (77.18/87.00s)
-[1]Zalfa       |08:36:58 | 11-10-2026| watch oshi-first-journey: 95% (83.22/87.00s)
-[1]Zalfa       |08:36:58 | 11-10-2026| watch oshi-first-journey: COMPLETED (83.22/87.00s)
-[1]Zalfa       |08:37:03 | 11-10-2026| watch [2/2] farming ep5...
-[1]Zalfa       |08:37:03 | 11-10-2026| watch ep5: mulai dari 0 (record 73.9s diabaikan)
-[1]Zalfa       |08:37:04 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:11 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:18 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:25 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:32 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:38 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:44 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:52 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:37:59 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:38:05 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:38:11 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:38:17 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:38:23 | 11-10-2026| watch ep5: 18% (73.85/396.00s)
-[1]Zalfa       |08:38:29 | 11-10-2026| watch ep5: 19% (76.36/396.00s)
-[1]Zalfa       |08:38:42 | 11-10-2026| watch ep5: 20% (81.78/396.00s)
-[1]Zalfa       |08:38:48 | 11-10-2026| watch ep5: 23% (91.57/396.00s)
-[1]Zalfa       |08:38:56 | 11-10-2026| watch ep5: 24% (97.02/396.00s)
-[1]Zalfa       |08:39:03 | 11-10-2026| watch ep5: 26% (103.98/396.00s)
-[1]Zalfa       |08:39:11 | 11-10-2026| watch ep5: 27% (109.99/396.00s)
-[1]Zalfa       |08:39:20 | 11-10-2026| watch ep5: 29% (116.93/396.00s)
-[1]Zalfa       |08:39:27 | 11-10-2026| watch ep5: 31% (124.61/396.00s)
-[1]Zalfa       |08:39:33 | 11-10-2026| watch ep5: 33% (130.91/396.00s)
-[1]Zalfa       |08:39:40 | 11-10-2026| watch ep5: 34% (137.04/396.00s)
-[1]Zalfa       |08:39:47 | 11-10-2026| watch ep5: 36% (143.01/396.00s)
-[1]Zalfa       |08:39:54 | 11-10-2026| watch ep5: 37% (149.29/396.00s)
-[1]Zalfa       |08:40:00 | 11-10-2026| watch ep5: 39% (155.80/396.00s)
-[1]Zalfa       |08:40:09 | 11-10-2026| watch ep5: 40% (161.20/396.00s)
-[1]Zalfa       |08:40:19 | 11-10-2026| watch ep5: 42% (169.09/396.00s)
-[1]Zalfa       |08:40:27 | 11-10-2026| watch ep5: 44% (177.03/396.00s)
-[1]Zalfa       |08:40:33 | 11-10-2026| watch ep5: 46% (183.03/396.00s)
-[1]Zalfa       |08:40:41 | 11-10-2026| watch ep5: 47% (188.41/396.00s)
-[1]Zalfa       |08:40:47 | 11-10-2026| watch ep5: 49% (194.67/396.00s)
-[1]Zalfa       |08:40:55 | 11-10-2026| watch ep5: 50% (200.31/396.00s)
-[1]Zalfa       |08:41:02 | 11-10-2026| watch ep5: 52% (207.82/396.00s)
-[1]Zalfa       |08:41:13 | 11-10-2026| watch ep5: 54% (214.15/396.00s)
-[1]Zalfa       |08:41:20 | 11-10-2026| watch ep5: 56% (222.39/396.00s)
-[1]Zalfa       |08:41:26 | 11-10-2026| watch ep5: 57% (228.43/396.00s)
-[1]Zalfa       |08:41:34 | 11-10-2026| watch ep5: 59% (233.87/396.00s)
-[1]Zalfa       |08:41:41 | 11-10-2026| watch ep5: 60% (239.97/396.00s)
-[1]Zalfa       |08:41:49 | 11-10-2026| watch ep5: 62% (246.28/396.00s)
-[1]Zalfa       |08:41:55 | 11-10-2026| watch ep5: 63% (252.29/396.00s)
-[1]Zalfa       |08:42:01 | 11-10-2026| watch ep5: 65% (257.70/396.00s)
-[1]Zalfa       |08:42:07 | 11-10-2026| watch ep5: 66% (263.10/396.00s)
-[1]Zalfa       |08:42:13 | 11-10-2026| watch ep5: 67% (268.54/396.00s)
-[1]Zalfa       |08:42:22 | 11-10-2026| watch ep5: 69% (274.23/396.00s)
-[1]Zalfa       |08:42:34 | 11-10-2026| watch ep5: 71% (282.41/396.00s)
-[1]Zalfa       |08:42:40 | 11-10-2026| watch ep5: 73% (290.98/396.00s)
-[1]Zalfa       |08:42:46 | 11-10-2026| watch ep5: 74% (296.38/396.00s)
-[1]Zalfa       |08:42:54 | 11-10-2026| watch ep5: 76% (302.09/396.00s)
-[1]Zalfa       |08:43:02 | 11-10-2026| watch ep5: 78% (309.25/396.00s)
-[1]Zalfa       |08:43:08 | 11-10-2026| watch ep5: 79% (316.06/396.00s)
-[1]Zalfa       |08:43:16 | 11-10-2026| watch ep5: 81% (322.35/396.00s)
-[1]Zalfa       |08:43:23 | 11-10-2026| watch ep5: 83% (329.30/396.00s)
-[1]Zalfa       |08:43:31 | 11-10-2026| watch ep5: 84% (335.37/396.00s)
-[1]Zalfa       |08:43:38 | 11-10-2026| watch ep5: 86% (342.21/396.00s)
-[1]Zalfa       |08:43:46 | 11-10-2026| watch ep5: 87% (348.34/396.00s)
-[1]Zalfa       |08:43:55 | 11-10-2026| watch ep5: 89% (355.74/396.00s)
-[1]Zalfa       |08:44:02 | 11-10-2026| watch ep5: 91% (363.31/396.00s)
-[1]Zalfa       |08:44:02 | 11-10-2026| watch ep5: COMPLETED (363.31/396.00s)
+[1]Zalfa       |12:49:09 | 12-10-2026| watch: semua video sudah completed
 --> [1]Zalfa menjalankan: Read Article
-[1]Zalfa       |08:44:03 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Zalfa       |08:44:04 | 11-10-2026| mint eligibility: {"userId":"1825924623931944969","youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5","submittedAt":1791679588,"reviewedAt":179168
-[1]Zalfa       |08:44:04 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Zalfa       |12:49:10 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Zalfa       |12:49:11 | 12-10-2026| mint eligibility: {"userId":"1825924623931944969","youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5","submittedAt":1791679588,"reviewedAt":179168
+[1]Zalfa       |12:49:11 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Zalfa menjalankan: Quiz Anime
-[1]Zalfa       |08:44:04 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Zalfa       |08:44:04 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Zalfa       |08:44:04 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Zalfa       |08:44:04 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Zalfa       |08:44:06 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Zalfa       |08:44:09 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Zalfa       |12:49:12 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Zalfa       |12:49:12 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Zalfa       |12:49:12 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Zalfa       |12:49:12 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Zalfa       |12:49:12 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Zalfa       |12:49:12 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Zalfa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zalfa       |08:44:16 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
-[1]Zalfa       |08:44:28 | 11-10-2026| music "この手は覚えてる": 9% (9.0036/94s)
-[1]Zalfa       |08:44:40 | 11-10-2026| music "この手は覚えてる": 21% (19.9188/94s)
-[1]Zalfa       |08:44:52 | 11-10-2026| music "この手は覚えてる": 32% (30.4884/94s)
-[1]Zalfa       |08:45:03 | 11-10-2026| music "この手は覚えてる": 43% (40.7718/94s)
-[1]Zalfa       |08:45:14 | 11-10-2026| music "この手は覚えてる": 54% (50.7609/94s)
-[1]Zalfa       |08:45:28 | 11-10-2026| music "この手は覚えてる": 65% (61.1586/94s)
-[1]Zalfa       |08:45:39 | 11-10-2026| music "この手は覚えてる": 78% (73.3698/94s)
-[1]Zalfa       |08:45:51 | 11-10-2026| music "この手は覚えてる": 89% (83.84309999999999/94s)
-[1]Zalfa       |08:45:51 | 11-10-2026| music "この手は覚えてる": selesai 83.84309999999999s
-[1]Zalfa       |08:45:57 | 11-10-2026| music memutar "キャンバス" (125s)...
-[1]Zalfa       |08:46:08 | 11-10-2026| music "キャンバス": 7% (9.0063/125s)
-[1]Zalfa       |08:46:20 | 11-10-2026| music "キャンバス": 15% (19.2312/125s)
-[1]Zalfa       |08:46:32 | 11-10-2026| music "キャンバス": 24% (30.5271/125s)
-[1]Zalfa       |08:46:42 | 11-10-2026| music "キャンバス": 32% (40.5702/125s)
-[1]Zalfa       |08:46:54 | 11-10-2026| music "キャンバス": 40% (50.332499999999996/125s)
-[1]Zalfa       |08:47:06 | 11-10-2026| music "キャンバス": 48% (60.7401/125s)
-[1]Zalfa       |08:47:19 | 11-10-2026| music "キャンバス": 57% (71.4456/125s)
-[1]Zalfa       |08:47:33 | 11-10-2026| music "キャンバス": 66% (82.84049999999999/125s)
-[1]Zalfa       |08:47:44 | 11-10-2026| music 73f29440-5927-443f-ae8c-a82dbb92445f: heartbeat GAGAL http=503, stop trek
-[1]Zalfa       |08:47:44 | 11-10-2026| music "キャンバス": selesai 96.0867s
-[1]Zalfa       |08:47:44 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Zalfa       |08:47:44 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |12:49:15 | 12-10-2026| music memutar "キャンバス" (125s)...
+[1]Zalfa       |12:49:26 | 12-10-2026| music "キャンバス": 7% (9.0036/125s)
+[1]Zalfa       |12:49:37 | 12-10-2026| music "キャンバス": 15% (19.0269/125s)
+[1]Zalfa       |12:49:49 | 12-10-2026| music "キャンバス": 23% (29.1447/125s)
+[1]Zalfa       |12:50:00 | 12-10-2026| music "キャンバス": 31% (39.1698/125s)
+[1]Zalfa       |12:50:11 | 12-10-2026| music "キャンバス": 39% (49.1931/125s)
+[1]Zalfa       |12:50:22 | 12-10-2026| music "キャンバス": 47% (59.1777/125s)
+[1]Zalfa       |12:50:34 | 12-10-2026| music "キャンバス": 55% (69.4332/125s)
+[1]Zalfa       |12:50:46 | 12-10-2026| music "キャンバス": 64% (80.388/125s)
+[1]Zalfa       |12:50:57 | 12-10-2026| music "キャンバス": 72% (90.8352/125s)
+[1]Zalfa       |12:51:08 | 12-10-2026| music "キャンバス": 80% (100.93860000000001/125s)
+[1]Zalfa       |12:51:10 | 12-10-2026| music "キャンバス": selesai 100.93860000000001s
+[1]Zalfa       |12:51:13 | 12-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Zalfa       |12:51:54 | 12-10-2026| music "ゆっくり帰ろう": 5% (9.0045/153s)
+[1]Zalfa       |12:52:12 | 12-10-2026| music "ゆっくり帰ろう": 30% (46.338300000000004/153s)
+[1]Zalfa       |12:52:23 | 12-10-2026| music "ゆっくり帰ろう": 40% (61.884/153s)
+[1]Zalfa       |12:52:34 | 12-10-2026| music "ゆっくり帰ろう": 47% (71.9127/153s)
+[1]Zalfa       |12:52:46 | 12-10-2026| music "ゆっくり帰ろう": 53% (82.1808/153s)
+[1]Zalfa       |12:52:57 | 12-10-2026| music "ゆっくり帰ろう": 60% (92.5875/153s)
+[1]Zalfa       |12:53:09 | 12-10-2026| music "ゆっくり帰ろう": 67% (102.8664/153s)
+[1]Zalfa       |12:53:20 | 12-10-2026| music "ゆっくり帰ろう": 73% (113.0868/153s)
+[1]Zalfa       |12:53:31 | 12-10-2026| music "ゆっくり帰ろう": 80% (123.3423/153s)
+[1]Zalfa       |12:53:32 | 12-10-2026| music "ゆっくり帰ろう": 80% belum counted, lanjut ke 100%...
+[1]Zalfa       |12:53:43 | 12-10-2026| music "ゆっくり帰ろう": 87% (133.9092/153s)
+[1]Zalfa       |12:53:54 | 12-10-2026| music "ゆっくり帰ろう": 94% (143.9487/153s)
+[1]Zalfa       |12:54:05 | 12-10-2026| music "ゆっくり帰ろう": 100% (153/153s)
+[1]Zalfa       |12:54:05 | 12-10-2026| music "ゆっくり帰ろう": selesai 153s
+[1]Zalfa       |12:54:08 | 12-10-2026| music memutar "うたかた" (185s)...
+[1]Zalfa       |12:54:20 | 12-10-2026| music "うたかた": 4% (9.0045/185s)
+[1]Zalfa       |12:54:31 | 12-10-2026| music "うたかた": 10% (19.4247/185s)
+[1]Zalfa       |12:54:43 | 12-10-2026| music "うたかた": 16% (30.1797/185s)
+[1]Zalfa       |12:54:54 | 12-10-2026| music "うたかた": 21% (40.177800000000005/185s)
+[1]Zalfa       |12:55:05 | 12-10-2026| music "うたかた": 27% (50.246100000000006/185s)
+[1]Zalfa       |12:55:16 | 12-10-2026| music "うたかた": 32% (60.5052/185s)
+[1]Zalfa       |12:55:27 | 12-10-2026| music "うたかた": 38% (70.5042/185s)
+[1]Zalfa       |12:55:39 | 12-10-2026| music "うたかた": 43% (80.53829999999999/185s)
+[1]Zalfa       |12:55:50 | 12-10-2026| music "うたかた": 48% (90.54719999999999/185s)
+[1]Zalfa       |12:56:02 | 12-10-2026| music "うたかた": 54% (100.94129999999998/185s)
+[1]Zalfa       |12:56:13 | 12-10-2026| music "うたかた": 60% (111.22379999999998/185s)
+[1]Zalfa       |12:56:24 | 12-10-2026| music "うたかた": 65% (121.15619999999998/185s)
+[1]Zalfa       |12:56:36 | 12-10-2026| music "うたかた": 71% (131.7924/185s)
+[1]Zalfa       |12:56:47 | 12-10-2026| music "うたかた": 76% (142.01369999999997/185s)
+[1]Zalfa       |12:56:58 | 12-10-2026| music "うたかた": 82% (151.98839999999998/185s)
+[1]Zalfa       |12:56:58 | 12-10-2026| music "うたかた": selesai 151.98839999999998s
+[1]Zalfa       |12:57:02 | 12-10-2026| music memutar "ぬくもり" (188s)...
+[1]Zalfa       |12:57:13 | 12-10-2026| music "ぬくもり": 4% (9.0009/188s)
+[1]Zalfa       |12:57:25 | 12-10-2026| music "ぬくもり": 10% (19.008899999999997/188s)
+[1]Zalfa       |12:57:37 | 12-10-2026| music "ぬくもり": 15% (29.383199999999995/188s)
+[1]Zalfa       |12:57:48 | 12-10-2026| music "ぬくもり": 21% (40.239/188s)
+[1]Zalfa       |12:57:59 | 12-10-2026| music "ぬくもり": 26% (50.2506/188s)
+[1]Zalfa       |12:58:10 | 12-10-2026| music "ぬくもり": 32% (60.5619/188s)
+[1]Zalfa       |12:58:21 | 12-10-2026| music "ぬくもり": 37% (70.5591/188s)
+[1]Zalfa       |12:58:33 | 12-10-2026| music "ぬくもり": 42% (80.5347/188s)
+[1]Zalfa       |12:58:45 | 12-10-2026| music "ぬくもり": 48% (90.5562/188s)
+[1]Zalfa       |12:58:56 | 12-10-2026| music "ぬくもり": 53% (101.4273/188s)
+[1]Zalfa       |12:59:07 | 12-10-2026| music "ぬくもり": 59% (111.4074/188s)
+[1]Zalfa       |12:59:19 | 12-10-2026| music "ぬくもり": 64% (121.3695/188s)
+[1]Zalfa       |12:59:30 | 12-10-2026| music "ぬくもり": 70% (132.4242/188s)
+[1]Zalfa       |12:59:41 | 12-10-2026| music "ぬくもり": 75% (142.34310000000002/188s)
+[1]Zalfa       |12:59:52 | 12-10-2026| music "ぬくもり": 81% (152.3223/188s)
+[1]Zalfa       |12:59:53 | 12-10-2026| music "ぬくもり": selesai 152.3223s
+[1]Zalfa       |12:59:55 | 12-10-2026| music memutar "桃色の頃" (213s)...
+[1]Zalfa       |13:00:06 | 12-10-2026| music "桃色の頃": 4% (9.0027/213s)
+[1]Zalfa       |13:00:18 | 12-10-2026| music "桃色の頃": 8% (19.1232/213s)
+[1]Zalfa       |13:00:29 | 12-10-2026| music "桃色の頃": 13% (29.414700000000003/213s)
+[1]Zalfa       |13:00:40 | 12-10-2026| music "桃色の頃": 18% (39.702600000000004/213s)
+[1]Zalfa       |13:00:51 | 12-10-2026| music "桃色の頃": 23% (49.74210000000001/213s)
+[1]Zalfa       |13:01:03 | 12-10-2026| music "桃色の頃": 28% (59.71860000000001/213s)
+[1]Zalfa       |13:01:14 | 12-10-2026| music "桃色の頃": 32% (69.83460000000001/213s)
+[1]Zalfa       |13:01:25 | 12-10-2026| music "桃色の頃": 37% (80.18190000000001/213s)
+[1]Zalfa       |13:01:36 | 12-10-2026| music "桃色の頃": 42% (90.11340000000001/213s)
+[1]Zalfa       |13:01:47 | 12-10-2026| music "桃色の頃": 46% (100.10880000000002/213s)
+[1]Zalfa       |13:01:59 | 12-10-2026| music "桃色の頃": 51% (110.01690000000002/213s)
+[1]Zalfa       |13:02:10 | 12-10-2026| music "桃色の頃": 56% (120.64860000000002/213s)
+[1]Zalfa       |13:02:21 | 12-10-2026| music "桃色の頃": 61% (130.68900000000002/213s)
+[1]Zalfa       |13:02:32 | 12-10-2026| music "桃色の頃": 66% (140.69250000000002/213s)
+[1]Zalfa       |13:02:44 | 12-10-2026| music "桃色の頃": 70% (150.66540000000003/213s)
+[1]Zalfa       |13:02:55 | 12-10-2026| music "桃色の頃": 75% (161.14230000000003/213s)
+[1]Zalfa       |13:03:06 | 12-10-2026| music "桃色の頃": 80% (171.27990000000003/213s)
+[1]Zalfa       |13:03:07 | 12-10-2026| music "桃色の頃": selesai 171.27990000000003s
+[1]Zalfa       |13:03:09 | 12-10-2026| music memutar "記憶の名前" (224s)...
+[1]Zalfa       |13:03:21 | 12-10-2026| music "記憶の名前": 4% (9.0063/224s)
+[1]Zalfa       |13:03:32 | 12-10-2026| music "記憶の名前": 8% (19.6389/224s)
+[1]Zalfa       |13:03:43 | 12-10-2026| music "記憶の名前": 13% (29.5497/224s)
+[1]Zalfa       |13:03:54 | 12-10-2026| music "記憶の名前": 17% (39.5208/224s)
+[1]Zalfa       |13:04:05 | 12-10-2026| music "記憶の名前": 22% (49.6449/224s)
+[1]Zalfa       |13:04:17 | 12-10-2026| music "記憶の名前": 26% (59.5791/224s)
+[1]Zalfa       |13:04:29 | 12-10-2026| music "記憶の名前": 31% (70.3989/224s)
+[1]Zalfa       |13:04:40 | 12-10-2026| music "記憶の名前": 35% (80.6283/224s)
+[1]Zalfa       |13:04:51 | 12-10-2026| music "記憶の名前": 40% (90.54809999999999/224s)
+[1]Zalfa       |13:05:02 | 12-10-2026| music "記憶の名前": 44% (100.46069999999999/224s)
+[1]Zalfa       |13:05:13 | 12-10-2026| music "記憶の名前": 49% (110.40659999999998/224s)
+[1]Zalfa       |13:05:25 | 12-10-2026| music "記憶の名前": 53% (120.34169999999999/224s)
+[1]Zalfa       |13:05:36 | 12-10-2026| music "記憶の名前": 58% (131.15519999999998/224s)
+[1]Zalfa       |13:05:47 | 12-10-2026| music "記憶の名前": 63% (141.13439999999997/224s)
+[1]Zalfa       |13:05:58 | 12-10-2026| music "記憶の名前": 67% (151.04519999999997/224s)
+[1]Zalfa       |13:06:10 | 12-10-2026| music "記憶の名前": 71% (161.03879999999995/224s)
+[1]Zalfa       |13:06:21 | 12-10-2026| music "記憶の名前": 76% (171.28889999999996/224s)
+[1]Zalfa       |13:06:32 | 12-10-2026| music "記憶の名前": 80% (181.32029999999995/224s)
+[1]Zalfa       |13:06:32 | 12-10-2026| music "記憶の名前": selesai 181.32029999999995s
+[1]Zalfa       |13:06:35 | 12-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Zalfa       |13:06:47 | 12-10-2026| music "Smart Pocket": 3% (9.0063/232s)
+[1]Zalfa       |13:06:58 | 12-10-2026| music "Smart Pocket": 8% (19.4328/232s)
+[1]Zalfa       |13:07:10 | 12-10-2026| music "Smart Pocket": 12% (29.471400000000003/232s)
+[1]Zalfa       |13:07:21 | 12-10-2026| music "Smart Pocket": 17% (40.113/232s)
+[1]Zalfa       |13:07:34 | 12-10-2026| music "Smart Pocket": 21% (50.1237/232s)
+[1]Zalfa       |13:07:45 | 12-10-2026| music "Smart Pocket": 26% (61.5762/232s)
+[1]Zalfa       |13:07:57 | 12-10-2026| music "Smart Pocket": 30% (71.7597/232s)
+[1]Zalfa       |13:08:09 | 12-10-2026| music "Smart Pocket": 35% (82.1304/232s)
+[1]Zalfa       |13:08:20 | 12-10-2026| music "Smart Pocket": 40% (93.03569999999999/232s)
+[1]Zalfa       |13:08:31 | 12-10-2026| music "Smart Pocket": 44% (103.01939999999999/232s)
+[1]Zalfa       |13:08:42 | 12-10-2026| music "Smart Pocket": 48% (112.95089999999999/232s)
+[1]Zalfa       |13:08:54 | 12-10-2026| music "Smart Pocket": 53% (123.44129999999998/232s)
+[1]Zalfa       |13:09:05 | 12-10-2026| music "Smart Pocket": 57% (133.5213/232s)
+[1]Zalfa       |13:09:18 | 12-10-2026| music "Smart Pocket": 62% (144.126/232s)
+[1]Zalfa       |13:09:29 | 12-10-2026| music "Smart Pocket": 66% (155.1474/232s)
+[1]Zalfa       |13:09:40 | 12-10-2026| music "Smart Pocket": 71% (165.08520000000001/232s)
+[1]Zalfa       |13:09:51 | 12-10-2026| music "Smart Pocket": 75% (175.28580000000002/232s)
+[1]Zalfa       |13:10:03 | 12-10-2026| music "Smart Pocket": 79% (185.19660000000002/232s)
+[1]Zalfa       |13:10:14 | 12-10-2026| music "Smart Pocket": 84% (195.5079/232s)
+[1]Zalfa       |13:10:15 | 12-10-2026| music "Smart Pocket": selesai 195.5079s
+[1]Zalfa       |13:10:19 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Zalfa       |13:10:30 | 12-10-2026| music "神様みたいに": 3% (9.0027/254s)
+[1]Zalfa       |13:10:42 | 12-10-2026| music "神様みたいに": 7% (18.9621/254s)
+[1]Zalfa       |13:10:53 | 12-10-2026| music "神様みたいに": 11% (29.292299999999997/254s)
+[1]Zalfa       |13:11:04 | 12-10-2026| music "神様みたいに": 15% (39.275999999999996/254s)
+[1]Zalfa       |13:11:15 | 12-10-2026| music "神様みたいに": 19% (49.3407/254s)
+[1]Zalfa       |13:11:26 | 12-10-2026| music "神様みたいに": 23% (59.3955/254s)
+[1]Zalfa       |13:11:37 | 12-10-2026| music "神様みたいに": 27% (69.3639/254s)
+[1]Zalfa       |13:11:49 | 12-10-2026| music "神様みたいに": 31% (79.3143/254s)
+[1]Zalfa       |13:12:00 | 12-10-2026| music "神様みたいに": 35% (89.4807/254s)
+[1]Zalfa       |13:12:11 | 12-10-2026| music "神様みたいに": 39% (99.4275/254s)
+[1]Zalfa       |13:12:22 | 12-10-2026| music "神様みたいに": 43% (109.36619999999999/254s)
+[1]Zalfa       |13:12:34 | 12-10-2026| music "神様みたいに": 47% (119.45249999999999/254s)
+[1]Zalfa       |13:12:45 | 12-10-2026| music "神様みたいに": 51% (130.4046/254s)
+[1]Zalfa       |13:12:56 | 12-10-2026| music "神様みたいに": 55% (140.3451/254s)
+[1]Zalfa       |13:13:07 | 12-10-2026| music "神様みたいに": 59% (150.26850000000002/254s)
+[1]Zalfa       |13:13:18 | 12-10-2026| music "神様みたいに": 63% (160.19100000000003/254s)
+[1]Zalfa       |13:13:29 | 12-10-2026| music "神様みたいに": 66% (170.11170000000004/254s)
+[1]Zalfa       |13:13:40 | 12-10-2026| music "神様みたいに": 70% (180.16110000000003/254s)
+[1]Zalfa       |13:13:52 | 12-10-2026| music "神様みたいに": 74% (190.08180000000004/254s)
+[1]Zalfa       |13:14:03 | 12-10-2026| music "神様みたいに": 78% (200.38230000000004/254s)
+[1]Zalfa       |13:14:15 | 12-10-2026| music "神様みたいに": 82% (210.69270000000003/254s)
+[1]Zalfa       |13:14:15 | 12-10-2026| music "神様みたいに": selesai 210.69270000000003s
+[1]Zalfa       |13:14:19 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Zalfa       |13:14:30 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Zalfa       |13:14:41 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.0944/269s)
+[1]Zalfa       |13:14:52 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.0646/269s)
+[1]Zalfa       |13:15:03 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.0195/269s)
+[1]Zalfa       |13:15:14 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.2714/269s)
+[1]Zalfa       |13:15:26 | 12-10-2026| music "せーので、飛ぼう！": 22% (59.2452/269s)
+[1]Zalfa       |13:15:37 | 12-10-2026| music "せーので、飛ぼう！": 25% (69.2397/269s)
+[1]Zalfa       |13:15:49 | 12-10-2026| music "せーので、飛ぼう！": 29% (79.4943/269s)
+[1]Zalfa       |13:16:00 | 12-10-2026| music "せーので、飛ぼう！": 33% (90.5877/269s)
+[1]Zalfa       |13:16:11 | 12-10-2026| music "せーので、飛ぼう！": 37% (100.5345/269s)
+[1]Zalfa       |13:16:23 | 12-10-2026| music "せーので、飛ぼう！": 41% (110.4507/269s)
+[1]Zalfa       |13:16:34 | 12-10-2026| music "せーので、飛ぼう！": 44% (120.6882/269s)
+[1]Zalfa       |13:16:45 | 12-10-2026| music "せーので、飛ぼう！": 48% (130.7115/269s)
+[1]Zalfa       |13:16:56 | 12-10-2026| music "せーので、飛ぼう！": 52% (141.0273/269s)
+[1]Zalfa       |13:17:07 | 12-10-2026| music "せーので、飛ぼう！": 56% (151.0461/269s)
+[1]Zalfa       |13:17:19 | 12-10-2026| music "せーので、飛ぼう！": 59% (160.9965/269s)
+[1]Zalfa       |13:17:30 | 12-10-2026| music "せーので、飛ぼう！": 63% (170.964/269s)
+[1]Zalfa       |13:17:41 | 12-10-2026| music "せーので、飛ぼう！": 67% (180.9693/269s)
+[1]Zalfa       |13:17:52 | 12-10-2026| music "せーので、飛ぼう！": 70% (190.92600000000002/269s)
+[1]Zalfa       |13:18:03 | 12-10-2026| music "せーので、飛ぼう！": 74% (200.9241/269s)
+[1]Zalfa       |13:18:16 | 12-10-2026| music "せーので、飛ぼう！": 78% (210.8583/269s)
+[1]Zalfa       |13:18:27 | 12-10-2026| music "せーので、飛ぼう！": 82% (222.3846/269s)
+[1]Zalfa       |13:18:27 | 12-10-2026| music "せーので、飛ぼう！": selesai 222.3846s
+[1]Zalfa       |13:18:31 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Zalfa       |13:18:42 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Zalfa       |13:18:54 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.0215/276s)
+[1]Zalfa       |13:19:06 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.151/276s)
+[1]Zalfa       |13:19:17 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.8205/276s)
+[1]Zalfa       |13:19:28 | 12-10-2026| music "ON CHAIN NEXUS": 18% (49.779900000000005/276s)
+[1]Zalfa       |13:19:40 | 12-10-2026| music "ON CHAIN NEXUS": 21% (59.71770000000001/276s)
+[1]Zalfa       |13:19:51 | 12-10-2026| music "ON CHAIN NEXUS": 25% (70.5447/276s)
+[1]Zalfa       |13:20:02 | 12-10-2026| music "ON CHAIN NEXUS": 29% (80.4825/276s)
+[1]Zalfa       |13:20:13 | 12-10-2026| music "ON CHAIN NEXUS": 32% (90.6705/276s)
+[1]Zalfa       |13:20:24 | 12-10-2026| music "ON CHAIN NEXUS": 36% (100.6191/276s)
+[1]Zalfa       |13:20:35 | 12-10-2026| music "ON CHAIN NEXUS": 40% (110.66850000000001/276s)
+[1]Zalfa       |13:20:46 | 12-10-2026| music "ON CHAIN NEXUS": 43% (120.61080000000001/276s)
+[1]Zalfa       |13:20:57 | 12-10-2026| music "ON CHAIN NEXUS": 47% (130.5549/276s)
+[1]Zalfa       |13:21:09 | 12-10-2026| music "ON CHAIN NEXUS": 50% (140.4558/276s)
+[1]Zalfa       |13:21:20 | 12-10-2026| music "ON CHAIN NEXUS": 54% (150.6969/276s)
+[1]Zalfa       |13:21:31 | 12-10-2026| music "ON CHAIN NEXUS": 58% (160.6617/276s)
+[1]Zalfa       |13:21:42 | 12-10-2026| music "ON CHAIN NEXUS": 61% (170.5914/276s)
+[1]Zalfa       |13:21:53 | 12-10-2026| music "ON CHAIN NEXUS": 65% (180.5202/276s)
+[1]Zalfa       |13:22:04 | 12-10-2026| music "ON CHAIN NEXUS": 69% (190.46699999999998/276s)
+[1]Zalfa       |13:22:15 | 12-10-2026| music "ON CHAIN NEXUS": 72% (200.7747/276s)
+[1]Zalfa       |13:22:27 | 12-10-2026| music "ON CHAIN NEXUS": 76% (210.7548/276s)
+[1]Zalfa       |13:22:38 | 12-10-2026| music "ON CHAIN NEXUS": 79% (220.7592/276s)
+[1]Zalfa       |13:22:49 | 12-10-2026| music "ON CHAIN NEXUS": 83% (230.6889/276s)
+[1]Zalfa       |13:22:49 | 12-10-2026| music "ON CHAIN NEXUS": selesai 230.6889s
+[1]Zalfa       |13:22:51 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zalfa       |13:22:52 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Zalfa       |13:22:56 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Zalfa       |13:23:00 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Zalfa menjalankan: Claim Missions
-[1]Zalfa       |08:47:44 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |13:23:04 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |13:23:04 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |13:23:04 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zalfa menjalankan: Check Eligibility
 
 --- eligibility [1]Zalfa ---
-  @myzalfaa | score=920 rank=6381
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @myzalfaa | score=960 rank=6370
+  tasks    [##################--] 71/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zalfa menjalankan: Read Manga
-[1]Zalfa       |08:47:44 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |13:23:08 | 12-10-2026| manga: 1/13 chapter belum completed
+[1]Zalfa       |13:23:08 | 12-10-2026| manga [1/1] membaca ch.2 (18 hal)...
+[1]Zalfa       |13:23:15 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 127s
+[1]Zalfa       |13:23:20 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 133s
+[1]Zalfa       |13:23:24 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 138s
+[1]Zalfa       |13:23:29 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 142s
+[1]Zalfa       |13:23:34 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 147s
+[1]Zalfa       |13:23:38 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 152s
+[1]Zalfa       |13:23:43 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 156s
+[1]Zalfa       |13:23:47 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 161s
+[1]Zalfa       |13:23:52 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 165s
+[1]Zalfa       |13:23:57 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 170s
+[1]Zalfa       |13:24:01 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 174s
+[1]Zalfa       |13:24:06 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 179s
+[1]Zalfa       |13:24:11 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 183s
+[1]Zalfa       |13:24:16 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 189s
+[1]Zalfa       |13:24:20 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 193s
+[1]Zalfa       |13:24:25 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 198s
+[1]Zalfa       |13:24:29 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 202s
+[1]Zalfa       |13:24:34 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 207s
+[1]Zalfa       |13:24:34 | 12-10-2026| manga ch2 (450001): COMPLETED
 --> [1]Zalfa menjalankan: Get Gift
-[1]Zalfa       |08:47:44 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |13:24:37 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Zalfa menjalankan: Setup Profile
-[1]Zalfa       |08:47:44 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |13:24:38 | 12-10-2026| profile: bio="https://x.com/myzalfaa" fav=kagura rewardAt=1791690823
+[1]Zalfa       |13:24:38 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zalfa menjalankan: Bind Wallet
-[1]Zalfa       |08:47:44 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |13:24:38 | 12-10-2026| wallet: sudah terikat 59KPwsLaTW... (solana)
 
 == RINGKASAN ==
-- Zalfa: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 2/2 completed | musik 2 trek ~179.9298s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Zalfa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 10 trek ~1770.1236000000004s | artikel 0 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
