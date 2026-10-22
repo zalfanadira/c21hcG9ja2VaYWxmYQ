@@ -12,7 +12,175 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zalfa =====
-[1]Zalfa       |09:50:30 | 20-10-2026| dashboard ERROR: dashboard http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Zalfa       |05:41:42 | 22-10-2026| login OK @myzalfaa | score=1540 rank=4686
+[1]Zalfa       |05:41:42 | 22-10-2026| serverTime=2026-10-22T05:41:42.000Z local=2026-10-22T05:41:42.674Z
+--> [1]Zalfa menjalankan: Claim Daily
+[1]Zalfa       |05:41:43 | 22-10-2026| daily: OK +10 poin score=1550
+--> [1]Zalfa menjalankan: Auto All Tasks (14 pending)
+[1]Zalfa       |05:41:44 | 22-10-2026| [1/14] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143120183213590
+[1]Zalfa       |05:41:44 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:41:56 | 22-10-2026| [2/14] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143235096998240
+[1]Zalfa       |05:41:56 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:42:08 | 22-10-2026| [3/14] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143475703436707
+[1]Zalfa       |05:42:08 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:42:20 | 22-10-2026| [4/14] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143395733025810
+[1]Zalfa       |05:42:20 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:42:31 | 22-10-2026| [5/14] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143416045289755
+[1]Zalfa       |05:42:31 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:42:43 | 22-10-2026| [6/14] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143515978920461
+[1]Zalfa       |05:42:43 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:42:54 | 22-10-2026| [7/14] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143480764949980
+[1]Zalfa       |05:42:54 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:43:06 | 22-10-2026| [8/14] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143490862289877
+[1]Zalfa       |05:43:06 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:43:17 | 22-10-2026| [9/14] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143656321961781
+[1]Zalfa       |05:43:17 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:43:29 | 22-10-2026| [10/14] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143859732631329
+[1]Zalfa       |05:43:29 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:43:41 | 22-10-2026| [11/14] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143710577960024
+[1]Zalfa       |05:43:41 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:43:53 | 22-10-2026| [12/14] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143757077492490
+[1]Zalfa       |05:43:53 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:44:04 | 22-10-2026| [13/14] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Zalfa       |05:44:04 | 22-10-2026| delay 10s...
+[1]Zalfa       |05:44:16 | 22-10-2026| [14/14] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzalfaa/status/2113143821087521698
+[1]Zalfa       |05:44:16 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zalfa       |05:44:17 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/myzalfaa/status/2113143957038737378
+--> [1]Zalfa menjalankan: Watch Anime
+[1]Zalfa       |05:44:17 | 22-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Zalfa       |05:44:17 | 22-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Zalfa       |05:44:19 | 22-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Zalfa       |05:44:24 | 22-10-2026| watch oshi-captains-hat: 5% (5.06/92.00s)
+[1]Zalfa       |05:44:30 | 22-10-2026| watch oshi-captains-hat: 11% (10.31/92.00s)
+[1]Zalfa       |05:44:37 | 22-10-2026| watch oshi-captains-hat: 16% (15.61/92.00s)
+[1]Zalfa       |05:44:42 | 22-10-2026| watch oshi-captains-hat: 23% (21.28/92.00s)
+[1]Zalfa       |05:44:48 | 22-10-2026| watch oshi-captains-hat: 28% (26.54/92.00s)
+[1]Zalfa       |05:44:54 | 22-10-2026| watch oshi-captains-hat: 34% (31.78/92.00s)
+[1]Zalfa       |05:45:00 | 22-10-2026| watch oshi-captains-hat: 40% (37.17/92.00s)
+[1]Zalfa       |05:45:07 | 22-10-2026| watch oshi-captains-hat: 46% (42.45/92.00s)
+[1]Zalfa       |05:45:13 | 22-10-2026| watch oshi-captains-hat: 52% (48.35/92.00s)
+[1]Zalfa       |05:45:18 | 22-10-2026| watch oshi-captains-hat: 58% (53.58/92.00s)
+[1]Zalfa       |05:45:24 | 22-10-2026| watch oshi-captains-hat: 63% (58.81/92.00s)
+[1]Zalfa       |05:45:30 | 22-10-2026| watch oshi-captains-hat: 69% (64.03/92.00s)
+[1]Zalfa       |05:45:36 | 22-10-2026| watch oshi-captains-hat: 75% (69.26/92.00s)
+[1]Zalfa       |05:45:42 | 22-10-2026| watch oshi-captains-hat: 81% (75.10/92.00s)
+[1]Zalfa       |05:45:48 | 22-10-2026| watch oshi-captains-hat: 87% (80.34/92.00s)
+[1]Zalfa       |05:45:54 | 22-10-2026| watch oshi-captains-hat: 93% (85.71/92.00s)
+[1]Zalfa       |05:45:54 | 22-10-2026| watch oshi-captains-hat: COMPLETED (85.71/92.00s)
+[1]Zalfa       |05:45:59 | 22-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Zalfa       |05:46:01 | 22-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Zalfa       |05:46:07 | 22-10-2026| watch oshi-rainbow-star: 5% (5.08/86.00s)
+[1]Zalfa       |05:46:13 | 22-10-2026| watch oshi-rainbow-star: 12% (10.76/86.00s)
+[1]Zalfa       |05:46:19 | 22-10-2026| watch oshi-rainbow-star: 18% (16.00/86.00s)
+[1]Zalfa       |05:46:24 | 22-10-2026| watch oshi-rainbow-star: 24% (21.26/86.00s)
+[1]Zalfa       |05:46:30 | 22-10-2026| watch oshi-rainbow-star: 30% (26.59/86.00s)
+[1]Zalfa       |05:46:36 | 22-10-2026| watch oshi-rainbow-star: 37% (31.85/86.00s)
+[1]Zalfa       |05:46:42 | 22-10-2026| watch oshi-rainbow-star: 43% (37.08/86.00s)
+[1]Zalfa       |05:46:48 | 22-10-2026| watch oshi-rainbow-star: 49% (42.46/86.00s)
+[1]Zalfa       |05:46:54 | 22-10-2026| watch oshi-rainbow-star: 55% (47.67/86.00s)
+[1]Zalfa       |05:47:00 | 22-10-2026| watch oshi-rainbow-star: 61% (52.97/86.00s)
+[1]Zalfa       |05:47:06 | 22-10-2026| watch oshi-rainbow-star: 67% (58.20/86.00s)
+[1]Zalfa       |05:47:11 | 22-10-2026| watch oshi-rainbow-star: 73% (63.62/86.00s)
+[1]Zalfa       |05:47:17 | 22-10-2026| watch oshi-rainbow-star: 80% (68.85/86.00s)
+[1]Zalfa       |05:47:23 | 22-10-2026| watch oshi-rainbow-star: 86% (74.08/86.00s)
+[1]Zalfa       |05:47:29 | 22-10-2026| watch oshi-rainbow-star: 92% (79.32/86.00s)
+[1]Zalfa       |05:47:29 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (79.32/86.00s)
+[1]Zalfa       |05:47:34 | 22-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Zalfa       |05:47:36 | 22-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Zalfa       |05:47:42 | 22-10-2026| watch oshi-rainbow-lighthouse: 5% (5.10/87.00s)
+[1]Zalfa       |05:47:48 | 22-10-2026| watch oshi-rainbow-lighthouse: 12% (10.46/87.00s)
+[1]Zalfa       |05:47:54 | 22-10-2026| watch oshi-rainbow-lighthouse: 18% (15.70/87.00s)
+[1]Zalfa       |05:48:00 | 22-10-2026| watch oshi-rainbow-lighthouse: 24% (21.39/87.00s)
+[1]Zalfa       |05:48:06 | 22-10-2026| watch oshi-rainbow-lighthouse: 30% (26.61/87.00s)
+[1]Zalfa       |05:48:12 | 22-10-2026| watch oshi-rainbow-lighthouse: 36% (32.02/87.00s)
+[1]Zalfa       |05:48:17 | 22-10-2026| watch oshi-rainbow-lighthouse: 42% (37.37/87.00s)
+[1]Zalfa       |05:48:23 | 22-10-2026| watch oshi-rainbow-lighthouse: 48% (42.60/87.00s)
+[1]Zalfa       |05:48:29 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (47.89/87.00s)
+[1]Zalfa       |05:48:35 | 22-10-2026| watch oshi-rainbow-lighthouse: 61% (53.12/87.00s)
+[1]Zalfa       |05:48:41 | 22-10-2026| watch oshi-rainbow-lighthouse: 67% (58.41/87.00s)
+[1]Zalfa       |05:48:47 | 22-10-2026| watch oshi-rainbow-lighthouse: 73% (63.62/87.00s)
+[1]Zalfa       |05:48:53 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (69.42/87.00s)
+[1]Zalfa       |05:48:59 | 22-10-2026| watch oshi-rainbow-lighthouse: 85% (74.67/87.00s)
+[1]Zalfa       |05:49:05 | 22-10-2026| watch oshi-rainbow-lighthouse: 91% (79.91/87.00s)
+[1]Zalfa       |05:49:05 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (79.91/87.00s)
+[1]Zalfa       |05:49:10 | 22-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Zalfa       |05:49:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Zalfa       |05:49:17 | 22-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.04/181.00s)
+[1]Zalfa       |05:49:23 | 22-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.33/181.00s)
+[1]Zalfa       |05:49:29 | 22-10-2026| watch bakeru-ikesou-jan-mv: 8% (15.59/181.00s)
+[1]Zalfa       |05:49:35 | 22-10-2026| watch bakeru-ikesou-jan-mv: 11% (20.83/181.00s)
+[1]Zalfa       |05:49:41 | 22-10-2026| watch bakeru-ikesou-jan-mv: 14% (26.10/181.00s)
+[1]Zalfa       |05:49:47 | 22-10-2026| watch bakeru-ikesou-jan-mv: 17% (31.67/181.00s)
+[1]Zalfa       |05:49:52 | 22-10-2026| watch bakeru-ikesou-jan-mv: 20% (36.96/181.00s)
+[1]Zalfa       |05:49:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: 23% (42.17/181.00s)
+[1]Zalfa       |05:50:04 | 22-10-2026| watch bakeru-ikesou-jan-mv: 26% (47.40/181.00s)
+[1]Zalfa       |05:50:10 | 22-10-2026| watch bakeru-ikesou-jan-mv: 29% (52.64/181.00s)
+[1]Zalfa       |05:50:16 | 22-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.08/181.00s)
+[1]Zalfa       |05:50:22 | 22-10-2026| watch bakeru-ikesou-jan-mv: 35% (63.47/181.00s)
+[1]Zalfa       |05:50:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 38% (68.98/181.00s)
+[1]Zalfa       |05:50:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 41% (74.22/181.00s)
+[1]Zalfa       |05:50:40 | 22-10-2026| watch bakeru-ikesou-jan-mv: 43% (79.47/181.00s)
+[1]Zalfa       |05:50:46 | 22-10-2026| watch bakeru-ikesou-jan-mv: 46% (85.04/181.00s)
+[1]Zalfa       |05:50:52 | 22-10-2026| watch bakeru-ikesou-jan-mv: 49% (90.26/181.00s)
+[1]Zalfa       |05:50:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.85/181.00s)
+[1]Zalfa       |05:51:04 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.11/181.00s)
+[1]Zalfa       |05:51:10 | 22-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.39/181.00s)
+[1]Zalfa       |05:51:16 | 22-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.66/181.00s)
+[1]Zalfa       |05:51:22 | 22-10-2026| watch bakeru-ikesou-jan-mv: 64% (117.11/181.00s)
+[1]Zalfa       |05:51:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.55/181.00s)
+[1]Zalfa       |05:51:33 | 22-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.86/181.00s)
+[1]Zalfa       |05:51:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.08/181.00s)
+[1]Zalfa       |05:51:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.29/181.00s)
+[1]Zalfa       |05:51:51 | 22-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.58/181.00s)
+[1]Zalfa       |05:51:57 | 22-10-2026| watch bakeru-ikesou-jan-mv: 82% (148.82/181.00s)
+[1]Zalfa       |05:52:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 85% (154.43/181.00s)
+[1]Zalfa       |05:52:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.79/181.00s)
+[1]Zalfa       |05:52:16 | 22-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.05/181.00s)
+[1]Zalfa       |05:52:16 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.05/181.00s)
+--> [1]Zalfa menjalankan: Read Article
+[1]Zalfa       |05:52:17 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Zalfa       |05:52:18 | 22-10-2026| mint eligibility: {"userId":"1825924623931944969","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5"
+[1]Zalfa       |05:52:24 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Zalfa       |05:52:33 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+--> [1]Zalfa menjalankan: Quiz Anime
+[1]Zalfa       |05:52:36 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Zalfa       |05:52:36 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Zalfa       |05:52:36 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Zalfa       |05:52:36 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Zalfa       |05:52:36 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Zalfa       |05:52:36 | 22-10-2026| quiz ep6: sudah dijawab
+--> [1]Zalfa menjalankan: Music Missions (realtime, bisa lama!)
+[1]Zalfa       |05:52:37 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zalfa       |05:52:38 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |05:52:38 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |05:52:38 | 22-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Zalfa menjalankan: Claim Missions
+[1]Zalfa       |05:52:38 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |05:52:38 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |05:52:38 | 22-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Zalfa menjalankan: Check Eligibility
+
+--- eligibility [1]Zalfa ---
+  @myzalfaa | score=1540 rank=4686
+  tasks    [#################---] 70/84
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Zalfa menjalankan: Read Manga
+[1]Zalfa       |05:52:41 | 22-10-2026| manga: 0/13 chapter belum completed
+--> [1]Zalfa menjalankan: Get Gift
+[1]Zalfa       |05:52:42 | 22-10-2026| gift: 0/4 belum diterima
+--> [1]Zalfa menjalankan: Setup Profile
+[1]Zalfa       |05:52:42 | 22-10-2026| profile: bio="https://x.com/myzalfaa" fav=kagura rewardAt=1791690823
+[1]Zalfa       |05:52:42 | 22-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Zalfa menjalankan: Bind Wallet
+[1]Zalfa       |05:52:43 | 22-10-2026| wallet: sudah terikat 59KPwsLaTW... (solana)
 
 == RINGKASAN ==
-- Zalfa: daily=- | tasks OK 0/0
+- Zalfa: daily=claimed | tasks OK 15/15 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
