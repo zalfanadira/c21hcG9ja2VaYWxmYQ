@@ -12,77 +12,73 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zalfa =====
-[1]Zalfa       |05:41:19 | 23-10-2026| login OK @myzalfaa | score=1690 rank=4373
-[1]Zalfa       |05:41:19 | 23-10-2026| serverTime=2026-10-23T05:41:19.000Z local=2026-10-23T05:41:19.706Z
+[1]Zalfa       |05:18:51 | 24-10-2026| login OK @myzalfaa | score=1790 rank=4201
+[1]Zalfa       |05:18:51 | 24-10-2026| serverTime=2026-10-24T05:18:51.000Z local=2026-10-24T05:18:51.321Z
 --> [1]Zalfa menjalankan: Claim Daily
-[1]Zalfa       |05:41:20 | 23-10-2026| daily: OK +10 poin score=1700
---> [1]Zalfa menjalankan: Auto All Tasks (9 pending)
-[1]Zalfa       |05:41:21 | 23-10-2026| [1/9] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505440920757364
-[1]Zalfa       |05:41:21 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:41:33 | 23-10-2026| [2/9] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505563932200995
-[1]Zalfa       |05:41:33 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:41:44 | 23-10-2026| [3/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505510892158854
-[1]Zalfa       |05:41:44 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:41:56 | 23-10-2026| [4/9] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
-[1]Zalfa       |05:41:56 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:42:07 | 23-10-2026| [5/9] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505720768457777
-[1]Zalfa       |05:42:07 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:42:19 | 23-10-2026| [6/9] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505797953996254
-[1]Zalfa       |05:42:19 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:42:31 | 23-10-2026| [7/9] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505935070110706
-[1]Zalfa       |05:42:31 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:42:42 | 23-10-2026| [8/9] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113506039540357187
-[1]Zalfa       |05:42:42 | 23-10-2026| delay 10s...
-[1]Zalfa       |05:42:53 | 23-10-2026| [9/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/myzalfaa/status/2113505919396210294
-[1]Zalfa       |05:42:53 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zalfa       |05:42:55 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/myzalfaa/status/2113505891723431564
+[1]Zalfa       |05:18:53 | 24-10-2026| daily: OK +10 poin score=1800
+--> [1]Zalfa menjalankan: Auto All Tasks (7 pending)
+[1]Zalfa       |05:18:55 | 24-10-2026| [1/7] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862204235989184
+[1]Zalfa       |05:18:55 | 24-10-2026| delay 10s...
+[1]Zalfa       |05:19:08 | 24-10-2026| [2/7] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862512310637006
+[1]Zalfa       |05:19:08 | 24-10-2026| delay 10s...
+[1]Zalfa       |05:19:20 | 24-10-2026| [3/7] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862389021061963
+[1]Zalfa       |05:19:20 | 24-10-2026| delay 10s...
+[1]Zalfa       |05:19:33 | 24-10-2026| [4/7] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862402399371017
+[1]Zalfa       |05:19:33 | 24-10-2026| delay 10s...
+[1]Zalfa       |05:19:44 | 24-10-2026| [5/7] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862405158230978
+[1]Zalfa       |05:19:44 | 24-10-2026| delay 10s...
+[1]Zalfa       |05:19:57 | 24-10-2026| [6/7] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862563926484294
+[1]Zalfa       |05:19:57 | 24-10-2026| delay 10s...
+[1]Zalfa       |05:20:10 | 24-10-2026| [7/7] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/myzalfaa/status/2113862625277382656
+[1]Zalfa       |05:20:10 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zalfa       |05:20:11 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/myzalfaa/status/2113862648465205683
 --> [1]Zalfa menjalankan: Watch Anime
-[1]Zalfa       |05:42:56 | 23-10-2026| watch: semua video sudah completed
+[1]Zalfa       |05:20:13 | 24-10-2026| watch: semua video sudah completed
 --> [1]Zalfa menjalankan: Read Article
-[1]Zalfa       |05:42:57 | 23-10-2026| news: 27/27 artikel selesai dibaca
-[1]Zalfa       |05:42:58 | 23-10-2026| mint eligibility: {"userId":"1825924623931944969","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5"
-[1]Zalfa       |05:43:03 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Zalfa       |05:43:11 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Zalfa       |05:43:18 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Zalfa       |05:20:15 | 24-10-2026| news: 27/30 artikel selesai dibaca
+[1]Zalfa       |05:20:15 | 24-10-2026| mint eligibility: {"userId":"1825924623931944969","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5"
+[1]Zalfa       |05:20:23 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
+[1]Zalfa       |05:20:33 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
+[1]Zalfa       |05:20:43 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
 --> [1]Zalfa menjalankan: Quiz Anime
-[1]Zalfa       |05:43:21 | 23-10-2026| quiz ep1: sudah dijawab
-[1]Zalfa       |05:43:21 | 23-10-2026| quiz ep2: sudah dijawab
-[1]Zalfa       |05:43:21 | 23-10-2026| quiz ep3: sudah dijawab
-[1]Zalfa       |05:43:21 | 23-10-2026| quiz ep4: sudah dijawab
-[1]Zalfa       |05:43:21 | 23-10-2026| quiz ep5: sudah dijawab
-[1]Zalfa       |05:43:21 | 23-10-2026| quiz ep6: sudah dijawab
+[1]Zalfa       |05:20:45 | 24-10-2026| quiz ep1: sudah dijawab
+[1]Zalfa       |05:20:45 | 24-10-2026| quiz ep2: sudah dijawab
+[1]Zalfa       |05:20:45 | 24-10-2026| quiz ep3: sudah dijawab
+[1]Zalfa       |05:20:45 | 24-10-2026| quiz ep4: sudah dijawab
+[1]Zalfa       |05:20:45 | 24-10-2026| quiz ep5: sudah dijawab
+[1]Zalfa       |05:20:45 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Zalfa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zalfa       |05:43:22 | 23-10-2026| music: kedua misi sudah tercapai, stop
-[1]Zalfa       |05:43:23 | 23-10-2026| mission music-listens-10: sudah diklaim
-[1]Zalfa       |05:43:23 | 23-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zalfa       |05:43:23 | 23-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zalfa       |05:20:48 | 24-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zalfa       |05:20:49 | 24-10-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |05:20:49 | 24-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |05:20:49 | 24-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zalfa menjalankan: Claim Missions
-[1]Zalfa       |05:43:23 | 23-10-2026| mission music-listens-10: sudah diklaim
-[1]Zalfa       |05:43:23 | 23-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zalfa       |05:43:23 | 23-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zalfa       |05:20:49 | 24-10-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |05:20:49 | 24-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |05:20:49 | 24-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zalfa menjalankan: Check Eligibility
 
 --- eligibility [1]Zalfa ---
-  @myzalfaa | score=1690 rank=4373
-  tasks    [############--------] 13/22
+  @myzalfaa | score=1790 rank=4201
+  tasks    [##############------] 17/24
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 22/17
   music    [####################] 11/11
-  artikel  [####################] 27/27
+  artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zalfa menjalankan: Read Manga
-[1]Zalfa       |05:43:26 | 23-10-2026| manga: 0/13 chapter belum completed
+[1]Zalfa       |05:20:54 | 24-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zalfa menjalankan: Get Gift
-[1]Zalfa       |05:43:26 | 23-10-2026| gift: 0/4 belum diterima
+[1]Zalfa       |05:20:54 | 24-10-2026| gift: 0/4 belum diterima
 --> [1]Zalfa menjalankan: Setup Profile
-[1]Zalfa       |05:43:27 | 23-10-2026| profile: bio="https://x.com/myzalfaa" fav=kagura rewardAt=1791690823
-[1]Zalfa       |05:43:27 | 23-10-2026| profile: bonus sudah diklaim, skip
+[1]Zalfa       |05:20:55 | 24-10-2026| profile: bio="https://x.com/myzalfaa" fav=kagura rewardAt=1791690823
+[1]Zalfa       |05:20:55 | 24-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zalfa menjalankan: Bind Wallet
-[1]Zalfa       |05:43:27 | 23-10-2026| wallet: sudah terikat 59KPwsLaTW... (solana)
+[1]Zalfa       |05:20:55 | 24-10-2026| wallet: sudah terikat 59KPwsLaTW... (solana)
 
 == RINGKASAN ==
-- Zalfa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Zalfa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
