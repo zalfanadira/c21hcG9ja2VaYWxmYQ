@@ -12,39 +12,35 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zalfa =====
-[1]Zalfa       |09:21:52 | 09-11-2026| login OK @myzalfaa | score=2960 rank=2636
-[1]Zalfa       |09:21:52 | 09-11-2026| serverTime=2026-11-09T09:21:51.000Z local=2026-11-09T09:21:52.210Z
+[1]Zalfa       |09:25:29 | 10-11-2026| login OK @myzalfaa | score=3000 rank=2615
+[1]Zalfa       |09:25:29 | 10-11-2026| serverTime=2026-11-10T09:25:29.000Z local=2026-11-10T09:25:29.707Z
 --> [1]Zalfa menjalankan: Claim Daily
-[1]Zalfa       |09:21:54 | 09-11-2026| daily: OK +10 poin score=2970
---> [1]Zalfa menjalankan: Auto All Tasks (3 pending)
-[1]Zalfa       |09:21:55 | 09-11-2026| [1/3] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/myzalfaa/status/2119721701433695460
-[1]Zalfa       |09:21:55 | 09-11-2026| delay 10s...
-[1]Zalfa       |09:22:07 | 09-11-2026| [2/3] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/myzalfaa/status/2119721872022508297
-[1]Zalfa       |09:22:07 | 09-11-2026| delay 10s...
-[1]Zalfa       |09:22:20 | 09-11-2026| [3/3] 360d1d0f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/myzalfaa/status/2119721791472350878
-[1]Zalfa       |09:22:20 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zalfa       |09:22:21 | 09-11-2026| [1/1] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119700670890889 | proof=https://x.com/myzalfaa/status/2119721672661743583
+[1]Zalfa       |09:25:31 | 10-11-2026| daily: OK +10 poin score=3010
+--> [1]Zalfa menjalankan: Auto All Tasks (1 pending)
+[1]Zalfa       |09:25:33 | 10-11-2026| [1/1] 4b44a71a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211997821176136 | proof=https://x.com/myzalfaa/status/2120085100723029845
+[1]Zalfa       |09:25:33 | 10-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zalfa       |09:25:35 | 10-11-2026| [1/1] 4b44a71a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119978211761365 | proof=https://x.com/myzalfaa/status/2120084942053801448
 --> [1]Zalfa menjalankan: Watch Anime
-[1]Zalfa       |09:22:22 | 09-11-2026| watch: semua video sudah completed
+[1]Zalfa       |09:25:36 | 10-11-2026| watch: semua video sudah completed
 --> [1]Zalfa menjalankan: Read Article
-[1]Zalfa       |09:22:23 | 09-11-2026| news: 34/34 artikel selesai dibaca
-[1]Zalfa       |09:22:23 | 09-11-2026| mint eligibility: {"userId":"1825924623931944969","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5"
-[1]Zalfa       |09:22:23 | 09-11-2026| news: semua artikel sudah dibaca
+[1]Zalfa       |09:25:38 | 10-11-2026| news: 34/34 artikel selesai dibaca
+[1]Zalfa       |09:25:38 | 10-11-2026| mint eligibility: {"userId":"1825924623931944969","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@myzalfaa","status":"submitted","revision":"2d8321c9-9822-43d5-9218-19c6850661d5"
+[1]Zalfa       |09:25:38 | 10-11-2026| news: semua artikel sudah dibaca
 --> [1]Zalfa menjalankan: Quiz Anime
 --> [1]Zalfa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zalfa       |09:22:26 | 09-11-2026| music: kedua misi sudah tercapai, stop
-[1]Zalfa       |09:22:26 | 09-11-2026| mission music-listens-10: sudah diklaim
-[1]Zalfa       |09:22:26 | 09-11-2026| mission music-minutes-30: sudah diklaim
-[1]Zalfa       |09:22:26 | 09-11-2026| mission anime-completed-3: sudah diklaim
+[1]Zalfa       |09:25:41 | 10-11-2026| music: kedua misi sudah tercapai, stop
+[1]Zalfa       |09:25:41 | 10-11-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |09:25:41 | 10-11-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |09:25:41 | 10-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zalfa menjalankan: Claim Missions
-[1]Zalfa       |09:22:26 | 09-11-2026| mission music-listens-10: sudah diklaim
-[1]Zalfa       |09:22:26 | 09-11-2026| mission music-minutes-30: sudah diklaim
-[1]Zalfa       |09:22:26 | 09-11-2026| mission anime-completed-3: sudah diklaim
+[1]Zalfa       |09:25:42 | 10-11-2026| mission music-listens-10: sudah diklaim
+[1]Zalfa       |09:25:42 | 10-11-2026| mission music-minutes-30: sudah diklaim
+[1]Zalfa       |09:25:42 | 10-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zalfa menjalankan: Check Eligibility
 
 --- eligibility [1]Zalfa ---
-  @myzalfaa | score=2960 rank=2636
-  tasks    [########------------] 2/5
+  @myzalfaa | score=3000 rank=2615
+  tasks    [#############-------] 2/3
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,18 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zalfa menjalankan: Read Manga
-[1]Zalfa       |09:22:30 | 09-11-2026| manga: 0/13 chapter belum completed
+[1]Zalfa       |09:25:46 | 10-11-2026| manga: 0/13 chapter belum completed
 --> [1]Zalfa menjalankan: Get Gift
-[1]Zalfa       |09:22:31 | 09-11-2026| gift: 4/10 belum diterima
-[1]Zalfa       |09:22:35 | 09-11-2026| gift [1/4] OSHI cheering GIFs (16:9): OK
-[1]Zalfa       |09:22:38 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Zalfa       |09:22:40 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Zalfa       |09:22:43 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Zalfa       |09:25:48 | 10-11-2026| gift: 3/10 belum diterima
+[1]Zalfa       |09:25:49 | 10-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Zalfa       |09:25:52 | 10-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Zalfa       |09:25:55 | 10-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Zalfa menjalankan: Setup Profile
-[1]Zalfa       |09:22:46 | 09-11-2026| profile: bio="https://x.com/myzalfaa" fav=kagura rewardAt=1791690823
-[1]Zalfa       |09:22:46 | 09-11-2026| profile: bonus sudah diklaim, skip
+[1]Zalfa       |09:25:57 | 10-11-2026| profile: bio="https://x.com/myzalfaa" fav=kagura rewardAt=1791690823
+[1]Zalfa       |09:25:57 | 10-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Zalfa menjalankan: Bind Wallet
-[1]Zalfa       |09:22:46 | 09-11-2026| wallet: sudah terikat 59KPwsLaTW... (solana)
+[1]Zalfa       |09:25:58 | 10-11-2026| wallet: sudah terikat 59KPwsLaTW... (solana)
 
 == RINGKASAN ==
-- Zalfa: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/10 diterima | profile - | wallet bound | mint req=false open=false
+- Zalfa: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound | mint req=false open=false
